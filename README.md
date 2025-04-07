@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi! I’m Pragyan Rana , a passionate newbie diving into the world of coding and open-source.  <br>🌱 Currently learning the ropes, exploring tech stacks like [Python/JavaScript/HTML/etc.], and documenting my journey here.  <br>💡 Open to collaboration, guidance, and beginner-friendly projects!  <br>🚀 Goal: Build foundational skills, contribute to meaningful projects, and grow with the community.  <br>📚 "The expert in anything was once a beginner." – Let’s learn and code together!  <br>🤝 Feel free to reach out for pair programming, feedback, or just to connect!  
+👋  Hello! I'm Pragyan Rana, an aspiring developer building foundational expertise in software development and open-source contributions.  <br>🌱 Currently sharpening my skills in Python, JavaScript, and modern web development tools, while documenting my progress through hands-on projects.  <br>💡  Passionate about collaborative problem-solving—open to mentorship, impactful open-source initiatives, and projects that align with my learning journey.  <br>🚀 Goals : Solidify core technical competencies through iterative project-building. Contribute to accessible, community-driven solutions. Foster growth by engaging with developer ecosystems and best practices.
+<br>📚 "The expert in anything was once a beginner." – Let’s learn and code together! <br>🤝 Feel free to reach out for pair programming, feedback, or just to connect!  
 
 
 ## 🌐 Socials:
